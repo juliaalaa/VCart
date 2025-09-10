@@ -1,5 +1,5 @@
 name: cart
-description: "A new Flutter project."
+description: "Virtual Cart is an AI-powered smart shopping application built with Flutter, Node.js backend, and real-time communication via Socket.IO. The app provides seamless cart management and smart product detection using AI models"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -260,4 +260,5 @@ flutter_native_splash:
   # do not remove any spaces:
   #info_plist_files:
   #  - 'ios/Runner/Info-Debug.plist'
+
   #  - 'ios/Runner/Info-Release.plist'
